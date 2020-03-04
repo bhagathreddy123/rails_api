@@ -115,7 +115,7 @@ GEM
     pastel (0.7.3)
       equatable (~> 0.6)
       tty-color (~> 0.5)
-    puma (3.12.1)
+    puma (3.12.4)
     rack (2.0.7)
     rack-cors (1.0.3)
     rack-test (1.1.0)
@@ -206,7 +206,7 @@ DEPENDENCIES
   devise (~> 4.6)
   faker (~> 1.9)
   listen (>= 3.0.5, < 3.2)
-  puma (~> 3.11)
+  puma (~> 3.12)
   rack-cors
   rails (~> 6.0.0.rc1)
   simple_token_authentication
